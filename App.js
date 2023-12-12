@@ -6,6 +6,9 @@ export default function App() {
   return (
     <>
     <Navigation/>
+    <View>
+      <Text></Text>
+    </View>
     </>
   )
 }
